@@ -1,15 +1,19 @@
 # Hi there, I'm Rafa Mandala 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Rafa%20Mandala&fontSize=70&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Engineer;Web+Developer;Python+Enthusiast;Creative+Thinker" alt="Typing SVG" />
 </p>
 
-### 🚀 Software Engineering Graduate & Tech Enthusiast
-[cite_start]Lulusan SMK dengan jurusan Rekayasa Perangkat Lunak yang memiliki keahlian dalam pengembangan aplikasi web dan mobile[cite: 2]. [cite_start]Selalu antusias untuk mempelajari teknologi baru dan mampu bekerja dalam tim[cite: 3].
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6Znd4cmZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnB0PWEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/u04bOWwX6v2AgIibkq/giphy.gif" width="400"  alt="Coding Animation"/>
+</p>
+
+### 🚀 About Me
+[cite_start]I am a Software Engineering graduate with a strong foundation in web and mobile development[cite: 2]. [cite_start]I am a proactive team player who thrives on solving complex problems and staying ahead of the curve with new technologies[cite: 3].
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack & Skills
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -25,33 +29,33 @@
 
 ---
 
-### 📊 GitHub Stats & Skills
+### 📊 GitHub Activity
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📁 Featured Projects
-* [cite_start]**AI ChatBox:** Membuat ChatBox AI sendiri berbasis Python[cite: 44].
-* [cite_start]**PhotoBox Website:** Pengembangan platform website PhotoBox[cite: 43].
-* [cite_start]**Photo Gallery:** Proyek galeri foto digital[cite: 45].
+### 🌟 Key Projects
+* [cite_start]**AI ChatBox**: Developed a personalized AI-based ChatBox using Python[cite: 44].
+* [cite_start]**PhotoBox Website**: Created a dedicated web platform for photography enthusiasts[cite: 43].
+* [cite_start]**Photo Gallery**: Built a creative digital gallery showcase[cite: 45].
+* [cite_start]**Game Development**: Experienced in using Roblox Studio to create interactive games[cite: 23, 24, 25].
 
 ---
 
-### 👥 Organizational Experience
-* [cite_start]**PMR (Red Cross):** Menjabat sebagai Wakil Koordinator Humas[cite: 41].
-* [cite_start]**Duration:** Aktif sejak Oktober 2025 hingga sekarang[cite: 47].
-* [cite_start]**Focus:** Komunikasi efektif dan kerja tim dalam lingkungan organisasi[cite: 3].
+### 🤝 Leadership & Social Impact
+* [cite_start]**Public Relations**: Currently serving as the **Vice Coordinator of Public Relations** for the PMR (Red Cross) organization[cite: 37, 41].
+* [cite_start]**Collaboration**: Highly active in organizational activities, focusing on effective communication and teamwork[cite: 3, 29].
 
 ---
 
-### 📫 Let's Connect!
-- [cite_start]📧 **Email:** mandalarafa2@gmail.com [cite: 6]
-- [cite_start]📍 **Location:** Jakarta Timur, Indonesia [cite: 16]
-- [cite_start]💬 **Languages:** Indonesian (Native), English (Beginner) [cite: 39]
+### 📫 Get In Touch
+* [cite_start]📧 **Email**: [mandalarafa2@gmail.com](mailto:mandalarafa2@gmail.com) [cite: 6]
+* [cite_start]📍 **Location**: Jakarta, Indonesia [cite: 16]
+* [cite_start]🌐 **Languages**: Indonesian (Native), English (Beginner) [cite: 39]
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Rafa Mandala" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=auto&height=100&section=footer&text=Keep%20Coding!&fontSize=40" />
 </p>
