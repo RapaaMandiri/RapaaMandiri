@@ -1,99 +1,78 @@
-# <p align="center">✨ Hi there, I'm Rafa Mandala ✨</p>
+# <p align="center">✨ Welcome to Rafa's Digital Workspace ✨</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=220&section=header&text=Software%20Engineer&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=Rafa%20Mandala&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXN6Znd4cmZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnB0PWEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/u04bOWwX6v2AgIibkq/giphy.gif" width="500" alt="Coding Animation"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Views" />
 </p>
 
-## 🚀 About Me
-[cite_start]I am a Software Engineering graduate with specialized skills in web and mobile application development[cite: 2]. [cite_start]I am a communicative team player, an effective problem solver, and always enthusiastic about mastering new technologies[cite: 3, 27, 28, 29].
+---
+
+## 💫 About Me
+[cite_start]A passionate **Software Engineering** graduate [cite: 2] focused on building innovative web and mobile solutions. [cite_start]I'm a communicative team player [cite: 3] [cite_start]who loves solving problems [cite: 28] [cite_start]and exploring new tech stacks[cite: 3].
 
 - [cite_start]🎓 **Education:** Software Engineering (PPLG) at SMK Prestasi Prima[cite: 10, 11].
-- [cite_start]🏢 **Current Role:** Vice Coordinator of Public Relations for Red Cross (PMR)[cite: 37, 41].
-- [cite_start]🌍 **Languages:** Indonesian (Native) & English (Beginner)[cite: 39].
+- [cite_start]🏛️ **Organization:** Vice Coordinator of Public Relations at PMR[cite: 41].
+- [cite_start]🎮 **Hobby:** Creating games in Roblox Studio[cite: 23, 24].
 
 ---
 
-## 🛠️ Tech Stack & Digital Skills
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
-      <br>CSS3
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" alt="Android Studio" />
-      <br>Android Studio
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=canva" width="40" height="40" alt="Canva" />
-      <br>Canva
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/roblox.png" width="40" height="40" alt="Roblox" />
-      <br>Roblox
-    </td>
-  </tr>
-</table>
-
----
-
-## 📂 Featured Projects
-- [cite_start]🤖 **AI ChatBox:** Custom AI ChatBox built using Python[cite: 44].
-- [cite_start]🌐 **PhotoBox Website:** A professional web platform for photography[cite: 43].
-- [cite_start]🖼️ **Photo Gallery:** Digital creative gallery project[cite: 45].
-- [cite_start]🎮 **Game Dev:** Creating interactive mini-games using Roblox Studio[cite: 23, 24, 25].
-
----
-
-## 📊 My Coding Journey
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=neon&border_radius=10" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=neon&border_radius=10" alt="GitHub Streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&no-frame=true&column=4" alt="github trophy" /></a>
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## 🛠️ My Tech Toolbox
 <p align="center">
-  <a href="mailto:mandalarafa2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Jakarta_East-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,py,php,mysql,vscode,androidstudio,figma,canva&theme=dark" />
+</p>
+
+### 💻 Development Focus
+* [cite_start]**Web Development:** Proficient in PHP and HTML[cite: 22].
+* [cite_start]**Programming:** Experienced with Python and CSS[cite: 19, 20].
+* [cite_start]**Design:** UI/UX designing using Figma and Canva[cite: 34, 35].
+
+---
+
+## 📊 Performance Metrics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Game
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 📁 Key Projects
+* [cite_start]**AI ChatBox:** Built an AI-based ChatBox using Python[cite: 44].
+* [cite_start]**PhotoBox Web:** Developed a photography platform[cite: 43].
+* [cite_start]**Digital Gallery:** Creative photo storage project[cite: 45].
+
+---
+
+## [cite_start]🤝 Social & Leadership [cite: 40]
+* [cite_start]**Role:** Vice Coordinator of Public Relations (Humas)[cite: 37, 41].
+- [cite_start]**Period:** Active from October 2025 until present[cite: 47, 49].
+- [cite_start]**Soft Skills:** Effective communication [cite: 29] [cite_start]and teamwork[cite: 27].
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="mailto:mandalarafa2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Jakarta_East-12abd9?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=00d2ff&height=100&section=footer&text=Innovating%20through%20Code&fontSize=40&animation=twinkle" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=gradient&height=100&section=footer&text=Keep%20Coding%20&%20Stay%20Creative&fontSize=35&animation=twinkle" />
 </p>
