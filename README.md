@@ -1,78 +1,77 @@
-# <p align="center">✨ Welcome to Rafa's Digital Workspace ✨</p>
+# 👋 Hello, I'm Rafa Mandala!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=Rafa%20Mandala&fontSize=80&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Digital%20Workspace&fontSize=40&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Views" />
-</p>
-
----
-
-## 💫 About Me
-[cite_start]A passionate **Software Engineering** graduate [cite: 2] focused on building innovative web and mobile solutions. [cite_start]I'm a communicative team player [cite: 3] [cite_start]who loves solving problems [cite: 28] [cite_start]and exploring new tech stacks[cite: 3].
-
-- [cite_start]🎓 **Education:** Software Engineering (PPLG) at SMK Prestasi Prima[cite: 10, 11].
-- [cite_start]🏛️ **Organization:** Vice Coordinator of Public Relations at PMR[cite: 41].
-- [cite_start]🎮 **Hobby:** Creating games in Roblox Studio[cite: 23, 24].
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&no-frame=true&column=4" alt="github trophy" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Web+and+Mobile+Developer;Roblox+Game+Creator;Passionate+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🛠️ My Tech Toolbox
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,py,php,mysql,vscode,androidstudio,figma,canva&theme=dark" />
-</p>
+### 👤 About Me
+[cite_start]Saya adalah lulusan **Rekayasa Perangkat Lunak (PPLG)** dari **SMK Prestasi Prima** yang berfokus pada pembangunan solusi web dan mobile yang inovatif[cite: 2, 11, 12]. [cite_start]Saya senang bekerja dalam tim dan selalu antusias mengeksplorasi teknologi baru[cite: 3].
 
-### 💻 Development Focus
-* [cite_start]**Web Development:** Proficient in PHP and HTML[cite: 22].
-* [cite_start]**Programming:** Experienced with Python and CSS[cite: 19, 20].
-* [cite_start]**Design:** UI/UX designing using Figma and Canva[cite: 34, 35].
+- [cite_start]🎓 **Pendidikan:** PPLG di SMK Prestasi Prima[cite: 11, 12].
+- [cite_start]🏛️ **Organisasi:** Wakil Koordinator Humas PMR[cite: 43].
+- [cite_start]🎮 **Hobi:** Membuat game di Roblox Studio[cite: 25, 26].
+- [cite_start]📍 **Lokasi:** Jakarta Timur[cite: 17].
 
 ---
 
-## 📊 Performance Metrics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+### 🛠️ Tech Stack
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html,css,js" />
+      <br>Web Basics
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php,python" />
+      <br>Languages [cite: 21]
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" />
+      <br>Database [cite: 22]
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma" />
+      <br>Tools [cite: 32, 33, 35]
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Projects in Progress
+| Project Name | Description | Status |
+| :--- | :--- | :--- |
+| **PhotoBox Website** | [cite_start]Platform galeri foto interaktif [cite: 45] | 🚧 On Progress |
+| **Custom AI ChatBox** | [cite_start]Chatbot berbasis Python [cite: 45] | 🚧 On Progress |
+| **Galeri Foto** | [cite_start]Web galeri berbasis web [cite: 45] | 🚧 On Progress |
+
+---
+
+### 📊 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RapaaMandiri&show_icons=true&theme=radical" alt="Rafa's Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RapaaMandiri&theme=radical" alt="GitHub Streak" height="150" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake Game
+### 🐍 Snake Animation (Ular Jalan)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/RapaaMandiri/RapaaMandiri/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-## 📁 Key Projects
-* [cite_start]**AI ChatBox:** Built an AI-based ChatBox using Python[cite: 44].
-* [cite_start]**PhotoBox Web:** Developed a photography platform[cite: 43].
-* [cite_start]**Digital Gallery:** Creative photo storage project[cite: 45].
-
----
-
-## [cite_start]🤝 Social & Leadership [cite: 40]
-* [cite_start]**Role:** Vice Coordinator of Public Relations (Humas)[cite: 37, 41].
-- [cite_start]**Period:** Active from October 2025 until present[cite: 47, 49].
-- [cite_start]**Soft Skills:** Effective communication [cite: 29] [cite_start]and teamwork[cite: 27].
-
----
-
-## 📫 Connect With Me
-<p align="center">
-  <a href="mailto:mandalarafa2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Jakarta_East-12abd9?style=for-the-badge&logo=googlemaps&logoColor=white" />
+### 📱 Connect with Me
+<p align="left">
+<a href="mailto:mandalarafa2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://github.com/RapaaMandiri"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=gradient&height=100&section=footer&text=Keep%20Coding%20&%20Stay%20Creative&fontSize=35&animation=twinkle" />
-</p>
+![Gif Code](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXp3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
