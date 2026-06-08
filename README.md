@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Rafa Mandala!
+<h1 align="center">안녕하세요! Hello, I'm Rafa Mandala (라파) 👋</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Digital%20Workspace&fontSize=40&animation=fadeIn" width="100%" />
@@ -10,17 +10,25 @@
 
 ---
 
-### 👤 About Me
-[cite_start]Saya adalah lulusan **Rekayasa Perangkat Lunak (PPLG)** dari **SMK Prestasi Prima** yang berfokus pada pembangunan solusi web dan mobile yang inovatif[cite: 2, 11, 12]. [cite_start]Saya senang bekerja dalam tim dan selalu antusias mengeksplorasi teknologi baru[cite: 3].
+<div align="center">
+  <img align="right" width="300" src="https://i.pinimg.com/originals/7e/ce/c4/7ecec434137d1fb3a06eb18c7064d0d2.gif" alt="aesthetic gif" />
+</div>
 
-- [cite_start]🎓 **Pendidikan:** PPLG di SMK Prestasi Prima[cite: 11, 12].
-- [cite_start]🏛️ **Organisasi:** Wakil Koordinator Humas PMR[cite: 43].
-- [cite_start]🎮 **Hobi:** Membuat game di Roblox Studio[cite: 25, 26].
-- [cite_start]📍 **Lokasi:** Jakarta Timur[cite: 17].
+### 👤 About Me
+I am a **Software Engineering (PPLG)** student at **SMK Prestasi Prima**, focusing on building innovative web and mobile solutions. I enjoy working in a team, have strong problem-solving skills, and am always enthusiastic about learning new technologies. 
+
+Hello everyone! :) These are the results of projects I have worked on. Some are school assignments, and others were made for personal use. Thank you!
+
+- 🎓 **Education:** Software Engineering at SMK Prestasi Prima (July 2024 - Present).
+- 🏛️ **Organization:** Vice Coordinator of Public Relations for PMR (2026).
+- 🎮 **Hobbies:** Coding and building simple games in Roblox Studio.
+- 📍 **Location:** East Jakarta, Indonesia.
+
+<br clear="both">
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -29,49 +37,60 @@
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=php,python" />
-      <br>Languages [cite: 21]
+      <br>Languages
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" />
-      <br>Database [cite: 22]
+      <br>Database
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma" />
-      <br>Tools [cite: 32, 33, 35]
+      <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,canva" />
+      <br>Tools
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Projects in Progress
-| Project Name | Description | Status |
+### 🚀 My Projects
+| Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **PhotoBox Website** | [cite_start]Platform galeri foto interaktif [cite: 45] | 🚧 On Progress |
-| **Custom AI ChatBox** | [cite_start]Chatbot berbasis Python [cite: 45] | 🚧 On Progress |
-| **Galeri Foto** | [cite_start]Web galeri berbasis web [cite: 45] | 🚧 On Progress |
+| 🤖 **[ChatBoxAzunya](https://github.com/RapaaMandiri/ChatBoxAzunya)** | Her name is Azunya Ai, using Python code and connected to the API from Google AI Studio. | Python |
+| 📸 **[Galleri_Foto](https://github.com/RapaaMandiri/Galleri_Foto)** | A photo gallery to upload photos of views in the capital city of Jakarta (Group Project). | PHP, HTML, CSS |
+| 👨‍💻 **[Portofolio_Rapa](https://github.com/RapaaMandiri/Portofolio_Rapa.github.io)** | This is my portfolio, it contains my profile and the projects I have made. | HTML |
+| 📷 **[WebcamAzuria](https://github.com/RapaaMandiri/WebcamAzuria.github.io)** | The Azunyaa Webcam allows taking photos via the website, functioning like a photobox. | HTML |
+| 🌃 **[PETUGAS-GERBANG-98](https://github.com/RapaaMandiri/PETUGAS-GERBANG-98-SHIFT-MENCEKAM)** | A game telling the story of toll officers during the 1998 Indonesian riots. | HTML |
+| 🎫 **[Aespa-Ticket-Concert](https://github.com/RapaaMandiri/Aespa-Ticket-Concert)** | A website to buy aespa concert tickets and experience the ticket war quickly. | PHP |
 
 ---
 
 ### 📊 My GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RapaaMandiri&show_icons=true&theme=radical" alt="Rafa's Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RapaaMandiri&theme=radical" alt="GitHub Streak" height="150" />
 </p>
 
 ---
 
-### 🐍 Snake Animation (Ular Jalan)
+### 🐍 GitHub Contribution Snake (뱀 애니메이션)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RapaaMandiri/RapaaMandiri/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RapaaMandiri/RapaaMandiri/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RapaaMandiri/RapaaMandiri/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RapaaMandiri/RapaaMandiri/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
 ### 📱 Connect with Me
-<p align="left">
+<p align="center">
 <a href="mailto:mandalarafa2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://github.com/RapaaMandiri"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </p>
 
-![Gif Code](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXp3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXp3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" />
+</p>
+
+<h3 align="center">방문해 주셔서 감사합니다! (Thank you for visiting!) ✨</h3>
