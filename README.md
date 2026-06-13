@@ -99,7 +99,6 @@ Hello everyone! :) These are the results of projects I have worked on. Some are 
 <h3 align="center">방문해 주셔서 감사합니다! (Thank you for visiting!) ✨</h3>
 
 ```python
-# Hiasan Kode Pemrograman: Profil Singkat
 developer = {
     "name": "Rafa Mandala",
     "role": "Software Engineering Student",
