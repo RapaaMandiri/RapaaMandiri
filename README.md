@@ -20,7 +20,7 @@
 <div align="center">
   <img align="right" width="300" src="https://i.pinimg.com/originals/7e/ce/c4/7ecec434137d1fb3a06eb18c7064d0d2.gif" alt="aesthetic gif" />
 </div>
-### 👤 About Me
+👤 About Me
 I am a **Software Engineering (PPLG)** student at **SMK Prestasi Prima**, focusing on building innovative web and mobile solutions. I enjoy working in a team, have strong problem-solving skills, and am always enthusiastic about learning new technologies. 
 
 Hello everyone! :) These are the results of projects I have worked on. Some are school assignments, and others were made for personal use. Thank you!
@@ -97,3 +97,15 @@ Hello everyone! :) These are the results of projects I have worked on. Some are 
 </p>
 
 <h3 align="center">방문해 주셔서 감사합니다! (Thank you for visiting!) ✨</h3>
+
+```python
+# Hiasan Kode Pemrograman: Profil Singkat
+developer = {
+    "name": "Rafa Mandala",
+    "role": "Software Engineering Student",
+    "origin": "Indonesia 🇮🇩",
+    "status": "Always Learning & Coding"
+}
+
+if developer["status"] == "Always Learning & Coding":
+    print("Welcome to my digital workspace! Let's build something awesome.")
