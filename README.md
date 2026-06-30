@@ -32,7 +32,32 @@ Hello everyone! :) These are the results of projects I have worked on. Some are 
 
 <br clear="both">
 
----
+<br>
+
+### 🏫 School
+<table align="center" width="100%">
+  <tr>
+    <th align="center" bgcolor="#222" style="color: #F7DF1E;">🏫 Institution</th>
+    <th align="center" bgcolor="#222" style="color: #F7DF1E;">📅 Period</th>
+    <th align="center" bgcolor="#222" style="color: #F7DF1E;">✨ Major / Notes</th>
+  </tr>
+  <tr>
+    <td align="left">🎒 <b>SDN 02 Bojong Kulur</b><br><small>Elementary School</small></td>
+    <td align="center">2015 - 2021</td>
+    <td align="left">Primary Education</td>
+  </tr>
+  <tr>
+    <td align="left">📚 <b>SMP PGRI 30</b><br><small>Junior High School</small></td>
+    <td align="center">2021 - 2024</td>
+    <td align="left">Secondary Education</td>
+  </tr>
+  <tr>
+    <td align="left">💻 <b>SMK Prestasi Prima</b><br><small>Vocational High School</small></td>
+    <td align="center">2024 - Present</td>
+    <td align="left"><span style="color: #FA243C;"><b>Software Engineering (PPLG)</b></span><br>Web & Mobile Development Focus</td>
+  </tr>
+</table>
+
 
 ### 📜 Certificates
 
