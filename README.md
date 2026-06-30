@@ -72,7 +72,7 @@ Hello everyone! :) These are the results of projects I have worked on. Some are 
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RapaaMandiri&show_icons=true&theme=radical" alt="Rafa's Stats" height="150" />
+ <img src=".github/workflows/petpet.gif" alt="Petpet" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RapaaMandiri&theme=radical" alt="GitHub Streak" height="150" />
 </p>
 
