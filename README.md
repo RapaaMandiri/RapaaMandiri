@@ -144,10 +144,9 @@ Hello everyone! :) These are the results of projects I have worked on. Some are 
   </p>
   
   
-  <br>
-  <a href="https://music.apple.com/id/song/focus/1841828520" target="_blank">
-    <img src="https://img.shields.io/badge/Apple_Music-%EC%95%A0%ED%94%8C_%EB%AE%A4%EC%A7%81%EC%97%90%EC%84%9C_%EB%93%A3%EA%B8%B0-FA243C?style=for-the-badge&logo=apple-music&logoColor=white" alt="Apple Music에서 듣기" />
-  </a>
+<a href="https://music.apple.com/profile/azuria_m" target="_blank">
+  <img src="https://img.shields.io/badge/Apple_Music-%ED%94%84%EB%A1%9C%ED%95%84_%EB%B3%B4%EA%B8%B0-FA243C?style=for-the-badge&logo=apple-music&logoColor=white" alt="Apple Music 프로필 보기" />
+</a>
   
   <br><br>
   <hr style="border: 1px dashed #333;" width="50%" />
