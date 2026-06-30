@@ -32,7 +32,9 @@ Hello everyone! :) These are the results of projects I have worked on. Some are 
 
 <br clear="both">
 
+
 <br>
+🍰 <b>Born & Age:</b> <img src="https://img.shields.io/badge/Oct_12,_2008-222222?style=for-the-badge&logo=calendar&logoColor=white" height="28" style="vertical-align: middle;" /> <img src="https://img.shields.io/badge/17_Years_Old-FA243C?style=for-the-badge&logo=cake&logoColor=white" height="28" style="vertical-align: middle;" />
 
 ### 🏫 School
 <table align="center" width="100%">
