@@ -137,13 +137,12 @@ Hello everyone! :) These are the results of projects I have worked on. Some are 
     </tr>
   </table>
 
-  <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0M3Y4NTh4b3B3bXN3eHg4b3B3bXN3eHg4b3B3bXN3eHg4bSZjdD1n/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Music Equalizer" width="140" style="opacity: 0.8; filter: hue-rotate(140deg);" />
+ <p align="center">
+    <a href="https://music.apple.com/id/song/focus/1841828520" target="_blank">
+      <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Music Equalizer" width="160" style="opacity: 0.8; filter: hue-rotate(130deg);" />
+    </a>
   </p>
   
-  <p align="center" style="font-size: 11px; color: #666;">
-    ⏮️ &nbsp;&nbsp; ⏸️ &nbsp;&nbsp; ⏭️
-  </p>
   
   <br>
   <a href="https://music.apple.com/id/song/focus/1841828520" target="_blank">
