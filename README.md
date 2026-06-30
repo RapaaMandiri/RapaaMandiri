@@ -34,6 +34,19 @@ Hello everyone! :) These are the results of projects I have worked on. Some are 
 
 ---
 
+### 📜 Certificates
+
+- **First Step Korean (첫걸음 한국어)** — Issued by **Yonsei University** via <img src="https://img.shields.io/badge/Coursera-%230056B3.svg?style=flat&logo=coursera&logoColor=white" height="18" alt="Coursera"> ➔ [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/JOQ4SKQRXO2W)
+  <br><br>
+  <img src=".github/workflows/sertifikat_korean.jpg" alt="First Step Korean Certificate" width="60%" />
+
+<br>
+
+- **Vice Coordinator of Public Relations for PMR (PMR 홍보부부장)** — Issued by **SMK Prestasi Prima**
+  <br><br>
+  <img src=".github/workflows/sertifikat_pmr.png" alt="PMR Public Relations Certificate" width="60%" />
+---
+
 ### 🛠️ Tech Stack & Tools
 <table align="center">
   <tr>
