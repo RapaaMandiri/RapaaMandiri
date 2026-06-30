@@ -113,6 +113,47 @@ Hello everyone! :) These are the results of projects I have worked on. Some are 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXp3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" />
 </p>
 
+<div align="center">
+  <hr style="border: 1px dashed #333;" width="50%" />
+  <br>
+  
+  <p align="center" style="font-family: 'Fira Code', monospace; color: #888;">
+    <img src="https://img.shields.io/badge/Apple%20Music-FA243C?style=flat-square&logo=apple-music&logoColor=white" height="18" alt="Apple Music" /> 
+    &nbsp; <i>지금 재생 중...</i>
+  </p>
+
+  <table border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src=".github/workflows/images.jpg" alt="하츠투하츠 앨범 커버" width="120" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+      </td>
+      <td align="left" valign="middle" style="font-family: 'Fira Code', monospace;">
+        <h3 style="color: #F7DF1E; margin: 0 0 5px 0;">하츠투하츠 (hearts2hearts)</h3>
+        <p style="font-size: 14px; margin: 0; line-height: 1.8;">
+          💿 <a href="https://music.apple.com/id/song/focus/1841828520" target="_blank" style="color: #FA243C; text-decoration: none;"><b>포커스 (Focus)</b></a><br>
+          🍎 <a href="https://music.apple.com/id/song/apple-pie/1841828522" target="_blank" style="color: #FA243C; text-decoration: none;"><b>애플 파이 (Apple Pie)</b></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0M3Y4NTh4b3B3bXN3eHg4b3B3bXN3eHg4b3B3bXN3eHg4bSZjdD1n/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Music Equalizer" width="140" style="opacity: 0.8; filter: hue-rotate(140deg);" />
+  </p>
+  
+  <p align="center" style="font-size: 11px; color: #666;">
+    ⏮️ &nbsp;&nbsp; ⏸️ &nbsp;&nbsp; ⏭️
+  </p>
+  
+  <br>
+  <a href="https://music.apple.com/id/song/focus/1841828520" target="_blank">
+    <img src="https://img.shields.io/badge/Apple_Music-%EC%95%A0%ED%94%8C_%EB%AE%A4%EC%A7%81%EC%97%90%EC%84%9C_%EB%93%A3%EA%B8%B0-FA243C?style=for-the-badge&logo=apple-music&logoColor=white" alt="Apple Music에서 듣기" />
+  </a>
+  
+  <br><br>
+  <hr style="border: 1px dashed #333;" width="50%" />
+</div>
+
 <h3 align="center">방문해 주셔서 감사합니다! (Thank you for visiting!) ✨</h3>
 
 ```python
